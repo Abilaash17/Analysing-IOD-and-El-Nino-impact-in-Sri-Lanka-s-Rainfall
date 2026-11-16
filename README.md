@@ -68,4 +68,4 @@ AI tools were used during development and drafting, as permitted by the course. 
 responsible for all analysis choices, results and interpretation.
 
 ## License
-Code: MIT (add a `LICENSE` file). Data remain under their original providers' terms.
+Code: MIT. Data remain under their original providers' terms.
