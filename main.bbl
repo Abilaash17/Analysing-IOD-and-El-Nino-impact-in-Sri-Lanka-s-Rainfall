@@ -1,0 +1,125 @@
+\begin{thebibliography}{10}
+
+\bibitem{zubair2006}
+L.~Zubair and C.~F. Ropelewski,
+\newblock ``The strengthening relationship between {ENSO} and northeast monsoon
+  rainfall over {S}ri {L}anka and southern {I}ndia,''
+\newblock {\em Journal of Climate}, vol. 19, no. 8, pp. 1567--1575, 2006.
+
+\bibitem{zubair2008}
+L.~Zubair, M.~Siriwardhana, J.~Chandimala, and Z.~Yahiya,
+\newblock ``Predictability of {S}ri {L}ankan rainfall based on {ENSO},''
+\newblock {\em International Journal of Climatology}, vol. 28, no. 1, pp.
+  91--101, 2008.
+
+\bibitem{malmgren2003}
+B.~A. Malmgren, R.~Hulugalla, Y.~Hayashi, and T.~Mikami,
+\newblock ``Precipitation trends in {S}ri {L}anka since the 1870s and
+  relationships to {E}l {N}i{\~n}o--{S}outhern {O}scillation,''
+\newblock {\em International Journal of Climatology}, vol. 23, pp. 1235--1252,
+  2003.
+
+\bibitem{zubair2003}
+L.~Zubair, S.~A. Rao, and T.~Yamagata,
+\newblock ``Modulation of {S}ri {L}ankan {M}aha rainfall by the {I}ndian
+  {O}cean {D}ipole,''
+\newblock {\em Geophysical Research Letters}, vol. 30, pp. 1063, 2003.
+
+\bibitem{kajakokulan2025}
+P.~Kajakokulan, S.~Jayawardena, and R.~Attada,
+\newblock ``Strengthening of {I}ndian {O}cean {D}ipole--rainfall relationship
+  in {S}ri {L}anka after the 1980s,''
+\newblock {\em Earth Systems and Environment}, vol. 9, pp. 3601--3613, 2025.
+
+\bibitem{saji1999}
+N.~H. Saji, B.~N. Goswami, P.~N. Vinayachandran, and T.~Yamagata,
+\newblock ``A dipole mode in the tropical {I}ndian {O}cean,''
+\newblock {\em Nature}, vol. 401, pp. 360--363, 1999.
+
+\bibitem{webster1999}
+P.~J. Webster, A.~M. Moore, J.~P. Loschnigg, and R.~R. Leben,
+\newblock ``Coupled ocean--atmosphere dynamics in the {I}ndian {O}cean during
+  1997--98,''
+\newblock {\em Nature}, vol. 401, pp. 356--360, 1999.
+
+\bibitem{noaa_oni}
+{NOAA Climate Prediction Center},
+\newblock ``Oceanic {N}i{\~n}o {I}ndex ({ONI}), monthly text file,''
+  \url{https://www.cpc.ncep.noaa.gov/data/indices/oni.ascii.txt}, 2026,
+\newblock Accessed November 2026.
+
+\bibitem{huang2021}
+B.~Huang, C.~Liu, V.~Banzon, E.~Freeman, G.~Graham, B.~Hankins, T.~Smith, and
+  H.-M. Zhang,
+\newblock ``Improvements of the daily optimum interpolation sea surface
+  temperature ({DOISST}) version 2.1,''
+\newblock {\em Journal of Climate}, vol. 34, no. 8, pp. 2923--2939, 2021.
+
+\bibitem{erddap_oisst}
+{NOAA CoastWatch},
+\newblock ``{ERDDAP} griddap dataset ncdcoisst21agg\_lonpm180: {SST}, daily
+  optimum interpolation ({OI}), {AVHRR} only, version 2.1, final, global,
+  0.25$^{\circ}$, 1981--present,''
+  \url{https://coastwatch.pfeg.noaa.gov/erddap/griddap/ncdcOisst21Agg_LonPM180.html},
+  2026,
+\newblock Accessed November 2026.
+
+\bibitem{funk2015chirps}
+C.~Funk, P.~Peterson, M.~Landsfeld, D.~Pedreros, J.~Verdin, S.~Shukla,
+  G.~Husak, J.~Rowland, L.~Harrison, A.~Hoell, and J.~Michaelsen,
+\newblock ``The climate hazards infrared precipitation with stations---a new
+  environmental record for monitoring extremes,''
+\newblock {\em Scientific Data}, vol. 2, pp. 150066, 2015.
+
+\bibitem{knapp2010}
+K.~R. Knapp, M.~C. Kruk, D.~H. Levinson, H.~J. Diamond, and C.~J. Neumann,
+\newblock ``The {I}nternational {B}est {T}rack {A}rchive for {C}limate
+  {S}tewardship ({IBTrACS}): Unifying tropical cyclone data,''
+\newblock {\em Bulletin of the American Meteorological Society}, vol. 91, no.
+  3, pp. 363--376, 2010.
+
+\bibitem{ibtracs_ni}
+{NOAA National Centers for Environmental Information},
+\newblock ``{IBTrACS} version 4, release 01: {N}orth {I}ndian basin best-track
+  file,''
+  \url{https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r01/access/csv/ibtracs.NI.list.v04r01.csv}.
+
+\bibitem{bretherton1999}
+C.~S. Bretherton, M.~Widmann, V.~P. Dymnikov, J.~M. Wallace, and I.~Bl{\'a}de,
+\newblock ``The effective number of spatial degrees of freedom of a
+  time-varying field,''
+\newblock {\em Journal of Climate}, vol. 12, no. 7, pp. 1990--2009, 1999.
+
+\bibitem{benjamini1995}
+Y.~Benjamini and Y.~Hochberg,
+\newblock ``Controlling the false discovery rate: a practical and powerful
+  approach to multiple testing,''
+\newblock {\em Journal of the Royal Statistical Society: Series B}, vol. 57,
+  no. 1, pp. 289--300, 1995.
+
+\bibitem{vialard2011}
+J.~Vialard, P.~Terray, J.~P. Duvel, R.~S. Nanjundiah, S.~S.~C. Shenoi, and
+  D.~Shankar,
+\newblock ``Factors controlling {J}anuary--{A}pril rainfall over southern
+  {I}ndia and {S}ri {L}anka,''
+\newblock {\em Climate Dynamics}, vol. 37, pp. 493--507, 2011.
+
+\bibitem{lin2026}
+L.~Lin, W.~Zhuang, Z.~Yang, and H.~Wang,
+\newblock ``Strengthened {ENSO} impact on {J}anuary--{A}pril rainfall over
+  southern {I}ndia and {S}ri {L}anka in recent decades,''
+\newblock {\em Atmosphere}, vol. 17, no. 3, pp. 292, 2026.
+
+\bibitem{girishkumar2012}
+M.~S. Girishkumar and M.~Ravichandran,
+\newblock ``The influences of {ENSO} on tropical cyclone activity in the {B}ay
+  of {B}engal during {O}ctober--{D}ecember,''
+\newblock {\em Journal of Geophysical Research: Oceans}, vol. 117, 2012.
+
+\bibitem{mahala2015}
+B.~K. Mahala, B.~K. Nayak, and P.~K. Mohanty,
+\newblock ``Impacts of {ENSO} and {IOD} on tropical cyclone activity in the
+  {B}ay of {B}engal,''
+\newblock {\em Natural Hazards}, vol. 75, pp. 1105--1125, 2015.
+
+\end{thebibliography}
